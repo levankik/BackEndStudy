@@ -1,0 +1,16 @@
+2022-11-20 - ERROR - Birthdate is not valid
+2022-11-20 - ERROR - ID number is not valid
+2022-11-20 - ERROR - Birthdate is not valid
+2022-11-20 - ERROR - Birthdate is not valid
+2022-11-20 - INFO - Program is started
+2022-11-20 - INFO - ID is 12312313212
+2022-11-20 - INFO - BirthDate is 321321
+2022-11-20 - ERROR - Birthdate is not valid
+2022-11-20T00:53:32.025456246 - INFO - Program is started
+2022-11-20T00:53:39.437442397 - INFO - ID is 12312312312
+2022-11-20T00:53:40.971733146 - INFO - BirthDate is 123123
+2022-11-20T00:53:40.975853065 - ERROR - Birthdate is not valid
+2022-11-20T01:33:56.844782911 - INFO - Program is started
+2022-11-20T01:34:01.014694215 - INFO - ID is 9999999999999
+2022-11-20T01:34:03.239835232 - INFO - BirthDate is 66666666666
+2022-11-20T01:34:03.241312712 - ERROR - ID number is not valid
